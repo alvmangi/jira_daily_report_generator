@@ -24,6 +24,7 @@ This script generates a daily report of Jira tickets and sends it to a specified
 - Python 3.6+
 - `requests` library
 - `slack_sdk` library
+- `python-dotenv` library
 - Jira account with API access
 - Slack bot token with permission to post messages
 
@@ -70,6 +71,7 @@ Este script genera un informe diario de tickets de Jira y lo envía a un canal d
 - Python 3.6+
 - Biblioteca `requests`
 - Biblioteca `slack_sdk`
+- Biblioteaca `python-dotenv`
 - Cuenta de Jira con acceso a la API
 - Token de bot de Slack con permiso para publicar mensajes
 
